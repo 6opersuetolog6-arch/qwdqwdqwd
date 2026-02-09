@@ -1006,7 +1006,7 @@ async def family_members(interaction: discord.Interaction):
     rank_order = [
         (roles["leader"], "[Лидер]"),
         (roles["deputy_leader"], "[Заместитель Лидера]"),
-        (roles["high_staff"], "[ʜɪɢʜ sᴛᴀꜰꜰ]")
+        (roles["high_staff"], "[ʜɪɢʜ sᴛᴀꜰꜰ]"),
         (roles["recruit"], "[ʀᴇᴄʀᴜɪᴛ]"),
         (roles["main_staff"], "[ᴍᴀɪɴ sᴛᴀꜰꜰ]")
     ]
